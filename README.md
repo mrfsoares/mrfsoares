@@ -1,5 +1,6 @@
-### Olá! Eu sou a Maria Rafaela, graduanda em Economia pela UFMG e estudante de análise e ciência de dados nas horas vagas! 👋
+### Olá! Eu sou a Maria Rafaela! 👋
 
+- 🎓 Graduanda em Economia pela UFMG
 - 🌱 Estou estudando: Data Science
 - 📫 Encontre-me pelo e-mail: soaresmrf@gmail.com
 - 😄 Pronomes: ela/dela
@@ -7,7 +8,7 @@
 <div align="left">
   <a href="https://github.com/mrfsoares">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mrfsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfsoares&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfsoares&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
