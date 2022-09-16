@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Rafaela! 👋
 
 - 🎓 Graduanda em Economia pela UFMG
-- 🌱 Estou estudando: Data Science
+- 🌱 Estou estudando: Data Science e Data Analysis
 - 📫 Encontre-me pelo e-mail: soaresmrf@gmail.com
 - 😄 Pronomes: ela/dela
 
