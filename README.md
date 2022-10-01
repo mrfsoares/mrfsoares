@@ -5,7 +5,7 @@
 - 📫 Encontre-me pelo e-mail: soaresmrf@gmail.com
 - 😄 Pronomes: ela/dela
 - 🌎 Meu site: https://medium.com/@soaresmrf
-- 📊Portfólio de PowerBI: sites.google.com/view/portfoliomrfsoares/sobre-mim
+- 📊Portfólio de PowerBI: https://sites.google.com/view/portfoliomrfsoares/sobre-mim
 
 <div align="left">
   <a href="https://github.com/mrfsoares">
