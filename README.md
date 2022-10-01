@@ -4,7 +4,8 @@
 - 🌱 Estou estudando: Data Science e Data Analysis
 - 📫 Encontre-me pelo e-mail: soaresmrf@gmail.com
 - 😄 Pronomes: ela/dela
-- 🌎 Meu site: sites.google.com/view/portfoliomrfsoares/sobre-mim
+- 🌎 Meu site: https://medium.com/@soaresmrf
+- 📊Portfólio de PowerBI: sites.google.com/view/portfoliomrfsoares/sobre-mim
 
 <div align="left">
   <a href="https://github.com/mrfsoares">
