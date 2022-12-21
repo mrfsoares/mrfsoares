@@ -2,10 +2,9 @@
 
 - 🎓 Graduanda em Economia pela UFMG
 - 🌱 Estou estudando: Data Science e Data Analysis
-- 📫 Encontre-me pelo e-mail: soaresmrf@gmail.com
 - 😄 Pronomes: ela/dela
 - 🌎 Meu site: https://medium.com/@soaresmrf
-- 📊Portfólio de PowerBI (em construção): https://sites.google.com/view/portfoliomrfsoares/sobre-mim
+- 📊 Portfólio de PowerBI (em construção): https://sites.google.com/view/portfoliomrfsoares/sobre-mim
 
 <div align="left">
   <a href="https://github.com/mrfsoares">
