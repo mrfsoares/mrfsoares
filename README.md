@@ -1,15 +1,26 @@
-### Olá! Eu sou a Maria Rafaela! 👋
+# Hi, I'm Maria Rafaela Soares... :rocket:
 
-- 🎓 Graduanda em Economia pela UFMG
-- 🌱 Estou estudando: Data Science e Data Analysis
-- 😄 Pronomes: ela/dela
-- 🌎 Meu site: https://medium.com/@soaresmrf
-- 📊 Portfólio de PowerBI (em construção): https://sites.google.com/view/portfoliomrfsoares/sobre-mim
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/maria-rafaela-soares/)
+[![Medium](https://img.shields.io/static/v1?label=Medium&message=%20&color=green&logo=Medium&style=flat-square&logoColor=white)](https://medium.com/@soaresmrf)
+
+
+## About me
+
+I am an undergraduate student in economics at UFMG.
+
+## Research Interests
+- Machine Learning
+- Data Mining
+- Economics and Finance
+- Behavioral Finance
+- Web Scraping
+- Sentiment Analysis
+- Environment
+
 
 <div align="left">
   <a href="https://github.com/mrfsoares">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mrfsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfsoares&theme=dracula&layout=compact&langs_count=7&count_private=true&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mrfsoares&show_icons=true&theme=grayscale&include_all_commits=true&count_private=true"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
