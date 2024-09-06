@@ -6,7 +6,7 @@
 
 ## About me
 
-I am an undergraduate student in economics at UFMG.
+BSc in Economics @ UFMG.
 
 ## Research Interests
 - Machine Learning
